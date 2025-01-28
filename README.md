@@ -19,7 +19,7 @@
 
 ## 사용 기술
 
-![JAVASCRIPT](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JAVASCRIPT](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![REACT](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![REACTNATIVE](https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=React&logoColor=black)
 ![THREE.JS](https://img.shields.io/badge/three.js-%23323330.svg?style=for-the-badge&logo=threedotjs&logoColor=white)
